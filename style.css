@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 3px solid navy;
+    border-radius: 10px;
+    padding: 7px;
+    color: #191970;
+}
+
+header a {
+    text-decoration: none;
+    border: 3px solid navy;
+    padding: 2px;
+    border-radius: 10px;
+    background-color: navy;
+    color: white;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    border: 1px solid rgb(253, 119, 57);
+    border-radius: 10px;
+    background-color: rgb(44, 105, 175);
+    color: rgb(253, 119, 57);
+}
+
+footer {
+   border: 2px solid rgb(255, 96, 91); 
+   border-radius: 10px;
+   padding-left: 6px;
+   background-color: rgb(180, 229, 252);
+   color: white;
+   padding: 7px;
+}
+
+footer p {
+    background-color: rgb(255, 96, 91);
+}
+
+#contacts {
+    padding-left: 20px;
+}
+
+nav {
+  border: 1px solid rgb(25, 0, 165);
+  padding: 25px;  
+  margin: 15px;
+  background-color: rgb(255, 181, 147);
+  border-radius: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 57px;
+}
+
+.price2 {
+    background-color: #c8ff80;
+    padding: 10px;
+}
+
+h2 {
+   color:rgb(111, 72, 148); 
+}
